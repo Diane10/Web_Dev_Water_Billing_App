@@ -1,1 +1,0 @@
-web: gunicorn water_billing.wsgi
